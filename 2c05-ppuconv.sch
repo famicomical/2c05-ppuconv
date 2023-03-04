@@ -29,7 +29,7 @@ A2
 Text Label 4050 4300 0    50   ~ 0
 A1
 Text Label 4050 4400 0    50   ~ 0
-A0
+A0out
 $Comp
 L 74xGxx:74AHCT1G02 U1
 U 1 1 60A6C229
@@ -176,5 +176,5 @@ F 3 "~" H 6850 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 6650 4600 2    50   ~ 0
-A0out
+A0
 $EndSCHEMATC

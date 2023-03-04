@@ -170,7 +170,7 @@ U 1 1 60A7415D
 P 6850 4600
 F 0 "J3" H 6878 4626 50  0000 L CNN
 F 1 "Conn_01x01_Female" H 6878 4535 50  0000 L CNN
-F 2 "Connector_PinSocket_1.27mm:PinSocket_2x30_P1.27mm_Vertical_SMD" H 6850 4600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Horizontal" H 6850 4600 50  0001 C CNN
 F 3 "~" H 6850 4600 50  0001 C CNN
 	1    6850 4600
 	1    0    0    -1  
