@@ -7,7 +7,8 @@ The RC2C05 chips contain fewer glitches than the the RP2C03B chips normally used
 
 
 the logic circuit takes after the one in the schematic shown below.
-[![applesorce blog post]("og circuit.jpg")](https://applesorce.wordpress.com/2011/02/27/rc2c05-99%E4%BB%A5%E5%A4%96%E3%81%AEppu%E3%82%92%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%99%E3%80%82/)
+![a](og circuit.jpg)
+[applesorce blog post](https://applesorce.wordpress.com/2011/02/27/rc2c05-99%E4%BB%A5%E5%A4%96%E3%81%AEppu%E3%82%92%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%99%E3%80%82/)
 
 
 refer to [nesdev wiki](https://www.nesdev.org/wiki/PPU_pinout) for the PPU pinout mentioned in the following guide.
