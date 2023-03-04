@@ -1,10 +1,13 @@
 # 2c05-ppuconv
 Allows 2C05 PPU chips to interface with an NES motherboard to get RGB video. 
 ![2c05-ppuconv 3DView](pcbview.JPG)
+
+
 The RC2C05 chips contain fewer glitches than the the RP2C03B chips normally used for the mod, but they have the drawback of not being directly connectable to an NES motherboard. this project solves that problem. Of course, viletim's NESRGB kit will give better results for an RGB mod, but this project remains of interest to those who want to mod their NES the 'old-fashioned' way.
 
+
 the logic circuit takes after the one in the schematic shown below.
-[![applesorce blog post](og circuit.jpg)](https://applesorce.wordpress.com/2011/02/27/rc2c05-99%E4%BB%A5%E5%A4%96%E3%81%AEppu%E3%82%92%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%99%E3%80%82/)
+[![applesorce blog post]("og circuit.jpg")](https://applesorce.wordpress.com/2011/02/27/rc2c05-99%E4%BB%A5%E5%A4%96%E3%81%AEppu%E3%82%92%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%99%E3%80%82/)
 
 
 refer to [nesdev wiki](https://www.nesdev.org/wiki/PPU_pinout) for the PPU pinout mentioned in the following guide.
