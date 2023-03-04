@@ -4,7 +4,7 @@ Allows 2C05 PPU chips to interface with an NES motherboard to get RGB video.
 ![2c05-ppuconv 3DView](pcbview.JPG)
 
 
-The RC2C05 chips contain fewer glitches than the the RP2C03B chips normally used for the mod, but they have the drawback of not being directly connectable to an NES motherboard. this project solves that problem. Of course, [viletim's NESRGB kit](http://etim.net.au/nesrgb/) will give better results for an RGB mod and is generally the preferred RGB upgrade method, but this project remains of interest to those who want to mod their NES the ['old-fashioned'](nesrgbschaltung.png) way.
+The RC2C05 chips contain fewer glitches than the the RP2C03B chips normally used for the mod, but they have the drawback of not being directly connectable to an NES motherboard. this project solves that problem. Of course, [viletim's NESRGB kit](http://etim.net.au/nesrgb/) will give better results for an RGB mod and is generally the preferred RGB upgrade method, but this project remains of interest to those who want to mod their NES the ['old-fashioned'](nesrgbold.png) way.
 
 
 the logic circuit takes after the one in the schematic shown below.
